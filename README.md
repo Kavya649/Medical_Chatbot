@@ -225,7 +225,7 @@ This project is licensed under the MIT License.
 ## 🙋 Author
 
 **Kavya**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@Kavya649](https://github.com/Kavya649)
 
 ---
 
